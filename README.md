@@ -74,7 +74,7 @@ Based on sensor readings, the Arduino automatically activates visual indicators,
 
 ## 🔗 Tinkercad Simulation
 
-[View Project on Tinkercad](ADD_YOUR_TINKERCAD_LINK_HERE)
+[View Project on Tinkercad](https://www.tinkercad.com/things/d3cdUSCFFUL-smart-fire-and-gas-safety-system)
 
 ## 🚀 Future Improvements
 
