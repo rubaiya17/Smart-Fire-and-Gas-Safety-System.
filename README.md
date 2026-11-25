@@ -69,7 +69,8 @@ Based on sensor readings, the Arduino automatically activates visual indicators,
 
 ## 🖥️ Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](Circuit_Diagram.png)
+
 
 ## 🔗 Tinkercad Simulation
 
